@@ -123,21 +123,6 @@ fail. Has spicrares upon the country,
 ifforn words, co
 
 
-- Seed : 'I'
-    - 
-
-- Seed : 'He'
-    - 
-
-- Seed : 'will'
-    - 
-
-
-- Seed : 'citizen'
-    - 
-
-- Seed : 'love'
-    - 
 
 ### LSTM
 - Seed : 'I'
